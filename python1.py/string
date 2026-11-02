@@ -1,0 +1,2 @@
+b ="rohan "
+print(b[2])

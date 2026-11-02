@@ -1,0 +1,41 @@
+transaction_id,date,region,city,category,product,quantity,unit_price,discount,payment_method,sales_amount
+TXN1001,2025-01-03,North,Pune,Grocery,Rice 5kg,2,650.0,0.05,UPI,1235.0
+TXN1002,2025-01-04,West,Mumbai,Electronics,USB Cable,3,199.0,0.0,Card,597.0
+TXN1003,2025-01-05,South,Bengaluru,Home,Storage Box,1,349.0,0.1,Cash,314.1
+TXN1004,2025-01-06,North,Delhi,Clothing,T-Shirt,2,499.0,0.15,UPI,848.3
+TXN1005,2025-01-07,West,Pune,Grocery,Cooking Oil 1L,4,145.0,0.0,Cash,580.0
+TXN1006,2025-01-08,East,Kolkata,Electronics,Wireless Mouse,1,799.0,0.05,Card,759.05
+TXN1007,2025-01-09,South,Chennai,Beauty,Face Wash,2,220.0,0.1,UPI,396.0
+TXN1008,2025-01-10,North,Delhi,Home,LED Bulb,5,89.0,0.0,Cash,445.0
+TXN1009,2025-01-11,West,Mumbai,Clothing,Jeans,1,1299.0,0.2,Card,1039.2
+TXN1010,2025-01-12,East,Kolkata,Grocery,Tea 500g,2,280.0,0.05,UPI,532.0
+TXN1011,2025-01-13,South,Bengaluru,Electronics,Keyboard,1,999.0,0.1,Card,899.1
+TXN1012,2025-01-14,North,Pune,Beauty,Shampoo,3,180.0,0.0,UPI,540.0
+TXN1013,2025-01-15,West,Mumbai,Home,Water Bottle,2,299.0,0.05,Cash,568.1
+TXN1014,2025-01-16,East,Kolkata,Clothing,Hoodie,1,899.0,0.15,Card,764.15
+TXN1015,2025-01-17,South,Chennai,Grocery,Biscuits Pack,6,35.0,0.0,Cash,210.0
+TXN1016,2025-01-18,North,Delhi,Electronics,Headphones,1,1499.0,0.1,UPI,1349.1
+TXN1017,2025-01-19,West,Pune,Beauty,Body Lotion,2,275.0,0.05,Card,522.5
+TXN1018,2025-01-20,South,Chennai,Home,Bedsheet,1,699.0,0.0,Cash,699.0
+TXN1019,2025-01-21,East,Kolkata,Electronics,Power Bank,2,1099.0,0.1,UPI,1978.2
+TXN1020,2025-01-22,North,Pune,Grocery,Wheat Flour 5kg,2,260.0,0.05,Card,494.0
+TXN1021,2025-01-23,West,Mumbai,Clothing,Socks Pack,3,120.0,0.0,UPI,360.0
+TXN1022,2025-01-24,South,Bengaluru,Beauty,Sunscreen,1,450.0,0.1,Card,405.0
+TXN1023,2025-01-25,East,Kolkata,Home,Desk Lamp,1,599.0,0.05,Cash,569.05
+TXN1024,2025-01-26,North,Delhi,Grocery,Milk 1L,5,65.0,0.0,UPI,325.0
+TXN1025,2025-01-27,West,Pune,Electronics,Bluetooth Speaker,1,1599.0,0.15,Card,1359.15
+TXN1026,2025-01-28,South,Chennai,Clothing,Kurta,2,799.0,0.1,UPI,1438.2
+TXN1027,2025-01-29,East,Kolkata,Grocery,Coffee 250g,2,310.0,0.05,Cash,589.0
+TXN1028,2025-01-30,North,Delhi,Home,Curtains,1,899.0,0.1,Card,809.1
+TXN1029,2025-02-01,West,Mumbai,Electronics,Phone Charger,2,399.0,0.0,UPI,798.0
+TXN1030,2025-02-02,South,Bengaluru,Grocery,Sugar 1kg,3,55.0,0.0,Cash,165.0
+TXN1031,2025-02-03,North,Pune,Clothing,Jacket,1,1799.0,0.2,Card,1439.2
+TXN1032,2025-02-04,East,Kolkata,Beauty,Hand Cream,2,199.0,0.05,UPI,378.1
+TXN1033,2025-02-05,West,Mumbai,Grocery,Pasta Pack,4,90.0,0.0,Cash,360.0
+TXN1034,2025-02-06,South,Chennai,Electronics,Smart Watch,1,2499.0,0.1,Card,2249.1
+TXN1035,2025-02-07,North,Delhi,Beauty,Toothpaste,3,85.0,0.0,UPI,255.0
+TXN1036,2025-02-08,West,Pune,Home,Pillow,2,399.0,0.05,Cash,758.1
+TXN1037,2025-02-09,East,Kolkata,Clothing,Formal Shirt,2,699.0,0.1,Card,1258.2
+TXN1038,2025-02-10,South,Bengaluru,Grocery,Eggs 12 Pack,2,95.0,0.0,UPI,190.0
+TXN1039,2025-02-11,North,Pune,Electronics,Webcam,1,1899.0,0.05,Card,1804.05
+TXN1040,2025-02-12,West,Mumbai,Home,Pan Set,1,1299.0,0.15,Cash,1104.15
